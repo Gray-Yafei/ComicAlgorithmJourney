@@ -48,3 +48,4 @@ if __name__ == "__main__":
     array.insert_v2(0, 9)
 
     array.output()
+    print("push test!")
