@@ -49,3 +49,4 @@ if __name__ == "__main__":
 
     array.output()
     print("push test!")
+    print("pull commit")
